@@ -1,16 +1,20 @@
-## Hi there 👋
+### Bom dia para você 👏 👏 👏
+# Eu sou o Victor Hugo Adorno 
 
-<!--
-**V1C10S/V1C10S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
+![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
 
-Here are some ideas to get you started:
+💻 **Desenvolvedor Back-End** apaixonado por tecnologia e programação  
+🎯 Focado em Python, C e Banco de Dados  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas** | Anhembi Morumbi  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Tecnologias e Ferramentas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MVC](https://img.shields.io/badge/Arquitetura-MVC-blue)
