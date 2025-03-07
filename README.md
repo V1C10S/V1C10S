@@ -4,9 +4,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
 
-💻 **Desenvolvedor Back-End** apaixonado por tecnologia e programação  
-🎯 Focado em Python, C e Banco de Dados  
-📚 Estudante de **Análise e Desenvolvimento de Sistemas** | Anhembi Morumbi  
+💻 **Desenvolvedor Back-End**   
+📚 **• 3º Semestre | Análise e Desenvolvimento de Sistemas**  
+
 
 ---
 
