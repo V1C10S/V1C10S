@@ -3,7 +3,7 @@
 
 ---
 
-💻 • **Desenvolvedor Back-End**  
+💻 • **Desenvolvedor Full-stack**  
 📚 • **3º Semestre | Análise e Desenvolvimento de Sistemas**  
 
 ---
