@@ -4,7 +4,7 @@
 ---
 
 💻 • **Desenvolvedor Full-stack**  
-📚 • **3º Semestre | Análise e Desenvolvimento de Sistemas**  
+📚 • **4º Semestre | Análise e Desenvolvimento de Sistemas**  
 
 ---
 
